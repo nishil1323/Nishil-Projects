@@ -4,13 +4,13 @@
 
 2.  Install dependencies:
 
-	cd server
-        yarn
+	  cd server
+          yarn
 
     or
 
-	cd server
-        npm install
+	  cd server
+          npm install
 
 3.  Run webpack in server folder to start the server:
 
