@@ -22,9 +22,7 @@ Your canvas piece should open up automatically at http://localhost:3000 and you 
 	
 	Error: error:0308010C:digital envelope routines::unsupported
 
-    then :
-    
-    	 For Linux/macOS: Run this command in your terminal:
+    then for Linux/macOS: Run this command in your terminal:
 
 		export NODE_OPTIONS=--openssl-legacy-provider
 	
